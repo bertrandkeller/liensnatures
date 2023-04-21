@@ -1,18 +1,13 @@
 ---
-title: "Intro"
+title: "Bienvenue"
 panel: false
 ---
 
-Welcome to **Eleventy Notes**, an opinionated template for publishing your personal notes, documentation or even your blog. It's built with [Eleventy](https://www.11ty.dev/), a powerful static site generator.
+Ceci est un site pour partager des ressources sur la protections de la nature.
 
-Eleventy Notes has many great features you'll love:
+La ressource en eau est cruciale. Pour discuter sur des bases scientifiques communes, partageons des ressources : liens, vidéos, études, webinaires…
 
-- ✅ [[Wikilinks]] and backlinks
-- ✅ Support for [[Tags]]
-- ✅ A fast [[Search|client-side search]]
-- ✅ Two [[Themes]] and multiple color schemes to choose from
-- ✅ A customizable [[Sidebar]] with support for folders
-- ✅ Lightweight and fast, with minimal JavaScript
-- ... and much more!
-
-Start using Eleventy Notes by reading the [[Getting started]] guide.
+- liens
+- vidéos
+- études
+- webinaires
