@@ -19,7 +19,7 @@ tags: [politique]
 
 ### Médias
 
-* [https://combatlemedia.com/2023/04/12/geraud-guibert-le-retard-de-notre-action-climatique-vient-aussi-dune-fracture-du-savoir/](https://combatlemedia.com/2023/04/12/geraud-guibert-le-retard-de-notre-action-climatique-vient-aussi-dune-fracture-du-savoir/)
+* [GÉRAUD GUIBERT – « NOTRE INACTION CLIMATIQUE VIENT AUSSI D’UNE FRACTURE DU SAVOIR »](https://combatlemedia.com/2023/04/12/geraud-guibert-le-retard-de-notre-action-climatique-vient-aussi-dune-fracture-du-savoir/)
 
 ## Vidéos
 
