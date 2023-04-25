@@ -1,6 +1,6 @@
 ---
-title: Mégabassine
-tags: [eau]
+title: Mégabassines
+tags: [eau,politique]
 ---
 
 
