@@ -1,8 +1,8 @@
 const fs = require("fs");
 
 const defaultConfig = {
-  title: "Notes",
-  description: "Notes app",
+  title: "Liens",
+  description: "Un site de partage de liens sur la préservation de la nature",
   theme: {
     color: "sky",
   },
