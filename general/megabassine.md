@@ -18,10 +18,10 @@ Nous illustrons ici ces dynamiques contre-intuitives à l'aide d'exemples mondia
 
 ## Vidéos
 
-## Audition
+### Audition
 
 * [Sénat - Auditon BRGM](http://videos.senat.fr/video.3337960_64117ba089856.gestion-de-l-eau--audition-du-bureau-de-recherches-geologiques-et-minieres?timecode=2251000)
-## Reportages
+### Reportages
 * [Megabassines : la guerre de l'eau est déclarée](https://www.youtube.com/watch?v=Zsq0nPkE57k)
 * [The Battle for the Mega Pools : Who Wants the Water War ?](https://www.youtube.com/watch?v=LMJK2YZEa4M)
 
