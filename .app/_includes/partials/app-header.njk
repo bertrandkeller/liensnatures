@@ -3,14 +3,15 @@
 <header class="app-layout__header app-header" x-data>
   {% include 'partials/nav-toggle.njk' %}
 
-  <a href="/" class="app-header__title truncate">
+  <a href="/" class="app-header__title truncate" aria-label="Accueil">
+    <img src="{{ '/assets/favicon-32x32.png' | url }}" alt="">
     {{ app.title }}
   </a>
 
   <div class="spacer"></div>
 
   {% include 'partials/theme-switcher.njk' %}
-  
+
   <div class="show-md">
     {{ searchInput('overlay') }}
   </div>
