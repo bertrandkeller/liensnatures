@@ -1,5 +1,5 @@
 {% macro searchInput(mode) %}
-  {% set placeholder = 'Quick find (alt+f)' if mode == 'overlay' else 'Search' %}
+  {% set placeholder = 'Recherche (alt+f)' if mode == 'overlay' else 'Search' %}
   {% set init = "$store.hotkeys.register('alt+f', () => $el.focus())" if mode === 'overlay' else null %}
 
   {% if mode === 'inline' %}
@@ -10,7 +10,7 @@
 
   <div  x-cloak x-data="search" @click.away="open = false" class="search" data-mode="{{ mode }}">
     <input
-      type="text" 
+      type="text"
       placeholder="{{ placeholder }}"
       class="search__input"
       x-model="term"
@@ -23,13 +23,13 @@
     <template x-if="open{{ '|| true' if mode === 'inline' else '' }}">
       <div class="search__popover">
         <div x-show="!term" class="search__info">
-          Search for notes by title, content and #tags
+          Recherche selon titres, contenus, ou tags
         </div>
         <div x-show="!!term && results && !results.length" class="search__info">
-          No notes found, try a different search term.
+          Aucun résultat
         </div>
         <div x-show="!!term && !results" class="search__info">
-          Searching...
+          Recherche...
         </div>
 
         <ul x-show="term && results && results.length" class="search__results" aria-label="Results">
