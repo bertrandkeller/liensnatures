@@ -13,3 +13,7 @@ tags: [agriculture]
 ## Vidéos
 
 Néant
+
+## Podcast
+
+* [Une ferme maraîchère municipale à Chaponost](https://www.rcf.fr/actualite/linvite-de-m-comme-midi-rcf-lyon?episode=372967)

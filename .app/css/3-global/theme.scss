@@ -38,14 +38,16 @@ body {
 }
 
 .stack.grid a {
-  color: #333 !important;
+  color: var(--color-primary-text) !important;
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 0 1em;
   width: 100%;
   height: 100%;
   min-height: 90px;
   font-weight: bold;
+  text-align: center;
 }
 
 @media (min-width: 480px) {

@@ -11,3 +11,4 @@ tags: [eau]
  * [Mediapart – Les centrales nucléaires sont très gourmandes en eau ](https://www.mediapart.fr/journal/ecologie/030323/les-centrales-nucleaires-sont-tres-gourmandes-en-eau)
  * [France TV info : réchauffement climatique – la France va-t-elle manquer d'eau pour refroidir ses centrales nucléaires ](https://www.francetvinfo.fr/societe/nucleaire)vrai-ou-fake-rechauffement-climatique-la-france-va-t-elle-manquer-d-eau-pour-refroidir-ses-centrales-nucleaires_5701970.html)
  * [France TV info : vrai ou fake ? Nucléaire, la grande intox](https://www.francetvinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/vrai-ou-fake-l-emission-du-dimanche-19-mars-2023_5720495.html)
+ * [« Les plus pessimistes étaient beaucoup trop optimistes » - Jean-Baptiste Fressoz](https://www.terrestres.org/2023/05/05/les-plus-pessimistes-etaient-beaucoup-trop-optimistes/)

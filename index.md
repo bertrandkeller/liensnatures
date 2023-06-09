@@ -11,3 +11,7 @@ La ressource en eau est cruciale. Pour discuter sur des bases scientifiques comm
 - vidéos
 - études
 - webinaires
+
+## Projet
+
+Création de fiche engagement pour la mobilisation de bénévoles autonomes, sur le modèle de : https://blog.octo.com/wp-content/uploads/2023/04/cartons.pdf
