@@ -14,6 +14,10 @@ tags: [jeunesse]
 * [Oui aux «royaumes de piétons» à Montréal et partout au Québec](https://www.journaldequebec.com/2023/05/19/oui-aux-royaumes-de-pietons-a-montreal-et-partout-au-quebec)
 
 
+## Éducation
+
+* [Promouvoir le bon comportement positif des élèves en classe](https://par-temps-clair.blogspot.com/2023/06/promouvoir-le-bon-comportement-positif.html)
+
 ## Vidéos
 
 Néant

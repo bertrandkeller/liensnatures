@@ -15,13 +15,17 @@ tags: [sante, pesticides]
 ## Pollution Sonore
 
 * [Comment l’exposition au bruit affecte notre santé](https://www.lemonde.fr/sciences/article/2023/04/24/alerte-sur-les-effets-du-bruit-sur-la-sante_6170832_1650684.html#xtor=AL-32280270-[default]-[android)
+* [Noise Could Take Years Off Your Life. Here Are the Health Impacts - The New York Times](https://www.nytimes.com/interactive/2023/06/09/health/noise-exposure-health-impacts.html?smid=tw-share)
 
 ### Pesticides
+
 * [L'exposition aux PFAS augmente le risque d'obésité](https://www.actu-environnement.com/ae/news/exposition-PFAS-augmentation-risque-obesite-41631.php4)
 * [Médiation sur les pesticides à La Rochelle : entre agriculteurs et habitants, «le fossé est trop grand»](https://www.liberation.fr/environnement/agriculture/mediation-sur-les-pesticides-a-la-rochelle-entre-agriculteurs-et-habitants-le-fosse-est-trop-grand-20230419_JNKQMTBCZVAD5JHPCMPIWF5AVM/)
 * [Pollution de l'eau : l'Anses bannit largement le S-métolachlore, un désherbant agricole très courant](https://www.francetvinfo.fr/monde/environnement/pesticides/pollution-de-l-eau-l-anses-bannit-largement-le-s-metolachlore-un-desherbant-agricole-tres-courant_5782439.html#xtor=CS2-765-[twitter]-)
 * [Chlordécone : les scientifiques alertaient sur les risques de cancer depuis les années 80, selon des archives retrouvées ](https://www.francetvinfo.fr/france/martinique/enquete-chlordecone-les-scientifiques-alertaient-sur-les-risques-de-cancer-depuis-les-annees-80-selon-des-archives_5782469.html)
 * [PFAS : un rapport officiel tant attendu est enfin paru et il vaut le détour !](https://www.generations-futures.fr/actualites/pfas-igedd/)
+* [Impacts des produits phytopharmaceutiques sur la biodiversité et les services écosystémiques : résultats de l’expertise scientifique collective INRAE-Ifremer](https://www.ifremer.fr/fr/presse/impacts-des-produits-phytopharmaceutiques-sur-la-biodiversite-et-les-services-ecosystemiques)
+* [Chronic exposure to tebuconazole alters thyroid hormones and plumage quality in house sparrows](https://link.springer.com/article/10.1007/s11356-023-28259-5)
 
 ### Ouvrages
 

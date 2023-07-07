@@ -13,6 +13,12 @@ tags: [agriculture]
  * [La Voix de l'Ain – Agriculture - Des bassines, face au manque d'eau ?](https://www.lavoixdelain.fr/actualite-50537-agriculture-des-bassines-face-au-manque-d-eau)
  * [La Voix de l'Ain – Dombes - Le niveau des nappes continue de baisser ](https://www.lavoixdelain.fr/actualite-50565-dombes-le-niveau-des-nappes-continue-de-baisser)
  * [De l'agriculture régénérative au business model canvas de l'économie régénérative #noussommesvivants](https://www.levidepoches.fr/lesupercollectif/2023/02/de-lagriculture-regenerative-au-business-modele-canvas-de-l%C3%A9conomie-regenerative-noussommesvivants.html)
+ * [“Les légumineuses, au secours du climat” de Marc Peyronnard](https://www.lelieudocumentaire.fr/projection/les-legumineuses-au-secours-du-climat-de-marc-peyronnard/?fbclid=IwAR26wPI0YAozUthselDnMDyijms-8PVNMFM69hrZMhSSleAzcRNPhphKNOs)
+ * [Le coût de la viande bon marché](https://www.monde-diplomatique.fr/2013/04/STIENNE/48972)
+
+ ## Paysage
+
+ * [Les paysages agricoles complexes hébergent plus de biodiversité - Twitter @sleguilFR](https://twitter.com/sleguilFR/status/1571057950978117632?s=20)
 
 ### Bio
 
@@ -28,4 +34,4 @@ tags: [agriculture]
 
 ## Vidéos
 
-Néant
+* [Bio vs agriculture de conservation, une histoire de fake news, zététique et glyphosate](https://www.youtube.com/watch?v=x1_mjO15TgQ)

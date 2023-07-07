@@ -11,3 +11,8 @@ title: Végétalisation
 become both denser and greener over 20 years](https://iopscience.iop.org/article/10.1088/1748-9326/abcf7a/pdf)
 * [Green growth? On the relation between population density, land use and1
 vegetation cover fractions in a city using a 30-years Landsat time series](https://thilowellmann.de/wp/wp-content/uploads/2020/06/WellmannEtAl_GreenGrowth_AcceptedManuscript.pdf)
+
+
+## Podcast
+
+* [Urbanisme écologique d'avenir : réintégrer la biodiversité dans nos villes | Philippe Clergeau - MNH](https://open.spotify.com/episode/7oigEHTUZteXFcfPDpEkMj?si=f345dc7df5904c17&nd=1)
