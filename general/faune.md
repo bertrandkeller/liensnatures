@@ -12,3 +12,5 @@ tags: [vivant]
 ## Insectes
 
 * [UC Irvine biologists discover bees to be brew masters of the insect world](https://news.uci.edu/2023/04/20/uc-irvine-biologists-discover-bees-to-be-brew-masters-of-the-insect-world/)
+* [Simple and farmer-friendly bumblebee conservation - Science Direct](https://www.sciencedirect.com/science/article/pii/S1439179122000573)
+* [Le papillon : un acteur clé de la biodiversité](https://www.sciences-participatives-au-jardin.org/news/342-la-vie-secrète-des-papillons?utm_medium=social&utm_source=twitter)
