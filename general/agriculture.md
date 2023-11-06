@@ -22,7 +22,7 @@ tags: [agriculture]
 
 ### Élevage
 
- * [« Une vache n’est pas faite pour manger du maïs », selon ces éleveurs paysans près de Cholet - Ouest France](https://www.ouest-france.fr/economie/agriculture/agriculture-biologique/une-vache-nest-pas-faite-pour-manger-du-mais-selon-ces-eleveurs-paysans-pres-de-cholet-fb2ca00e-353b-11ee-9556-ca39d271d1b5)
+ * [« Une vache n’est pas faite pour manger du maïs », selon ces éleveurs paysans près de Cholet - Ouest-France](https://www.ouest-france.fr/economie/agriculture/agriculture-biologique/une-vache-nest-pas-faite-pour-manger-du-mais-selon-ces-eleveurs-paysans-pres-de-cholet-fb2ca00e-353b-11ee-9556-ca39d271d1b5)
 
 ### Paysage
 

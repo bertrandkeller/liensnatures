@@ -39,7 +39,7 @@ tags: [eau]
 
  * [Cartographie Nationale des Milieux Humides - MNHN](https://inpn.mnhn.fr/docs-web/docs/download/416298)
  * [Restitution de la 1ere phase du projet de cartographie nationale des milieux humides - Pole Lagunes](https://pole-lagunes.org/restitution-de-la-1ere-phase-du-projet-de-cartographie-nationale-des-milieux-humides/)
- * [Près de Bressuire. Agir pour améliorer la qualité de l’eau - Ouest France](https://www.ouest-france.fr/nouvelle-aquitaine/bressuire-79300/pres-de-bressuire-agir-pour-ameliorer-la-qualite-de-l-eau-f0fc90d8-35c0-11ed-a858-f7410f1f4331)
+ * [Près de Bressuire. Agir pour améliorer la qualité de l’eau - Ouest-France](https://www.ouest-france.fr/nouvelle-aquitaine/bressuire-79300/pres-de-bressuire-agir-pour-ameliorer-la-qualite-de-l-eau-f0fc90d8-35c0-11ed-a858-f7410f1f4331)
  * [To Restore Watersheds, Think Like a Beaver](https://reasonstobecheerful.world/beaver-dam-analogs-colorado-river-restoration/)
 
 ### Réserves
@@ -50,11 +50,12 @@ tags: [eau]
 
 ## Vidéos
 
- * [Webconf OFB/OiEau - Restauration des cours d'eau : approches à large échelle](https://www.youtube.com/watch?v=1qmzYT8yBi0)
- * [Carbone et Eau, ce couple à mettre en lumière, Laurent Denise](https://www.youtube.com/watch?v=G-2hVeUAOms)
- * [L'infiltration c'est la solution](https://www.youtube.com/watch?v=0IMbPBkoP_0)
+ * [Restauration des cours d'eau : approches à large échelle - OFB/OiEau](https://www.youtube.com/watch?v=1qmzYT8yBi0)
+ * [Carbone et Eau, ce couple à mettre en lumière - Laurent Denise](https://www.youtube.com/watch?v=G-2hVeUAOms)
+ * [L'infiltration c'est la solution - Département de la Mayenne](https://www.youtube.com/watch?v=0IMbPBkoP_0)
  * [Why rivers shouldn't look like this – The Guardian](https://www.theguardian.com/environment/video/2023/jan/26/why-rivers-shouldnt-look-like-this-video?CMP=share_btn_tw)
  * [Préserver et partager l’eau - #ColloqueAdaptation](https://twitter.com/i/broadcasts/1RDGlagXEyqJL)
+ * [EAU TV, des Elus et des Rivières](https://www.youtube.com/@EAU-TV/videos)
 
 ## Podcast
 

@@ -23,7 +23,7 @@ tags: [sante, pesticides]
 * [Impacts des produits phytopharmaceutiques sur la biodiversité et les services écosystémiques : résultats de l’expertise scientifique collective INRAE-Ifremer](https://www.ifremer.fr/fr/presse/impacts-des-produits-phytopharmaceutiques-sur-la-biodiversite-et-les-services-ecosystemiques)
 * [Chronic exposure to tebuconazole alters thyroid hormones and plumage quality in house sparrows](https://link.springer.com/article/10.1007/s11356-023-28259-5)
 * [Pesticides, sécheresses : menaces sur l’eau potable - Nouvel Observateur](https://www.nouvelobs.com/ecologie/20230802.OBS76507/pesticides-secheresses-menaces-sur-l-eau-potable.html)
-* [Pourquoi y a-t-il autant de pesticides dans l’eau du robinet à Vitré ? - Ouest France](https://www.ouest-france.fr/bretagne/vitre-35500/pourquoi-y-a-t-il-autant-de-pesticides-dans-leau-du-robinet-a-vitre-09ae32fe-2548-11ee-8552-e3192c603a14)
+* [Pourquoi y a-t-il autant de pesticides dans l’eau du robinet à Vitré ? - Ouest-France](https://www.ouest-france.fr/bretagne/vitre-35500/pourquoi-y-a-t-il-autant-de-pesticides-dans-leau-du-robinet-a-vitre-09ae32fe-2548-11ee-8552-e3192c603a14)
 
 ### Ouvrages
 
