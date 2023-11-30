@@ -6,7 +6,7 @@ tags: [climat]
 
 ## Liens
 
-* [Quels sont les impacts du changement climatique en France ? -  Réseau Action Climat](https://reseauactionclimat.org/quels-sont-les-impacts-du-changement-climatique-en-france/)
+ * [Quels sont les impacts du changement climatique en France ? -  Réseau Action Climat](https://reseauactionclimat.org/quels-sont-les-impacts-du-changement-climatique-en-france/)
 
 ## Outils
 

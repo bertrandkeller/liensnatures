@@ -6,6 +6,7 @@ tags: [agriculture]
 
 ## Liens
 
+  * [« Les paysans vont disparaître car les industriels et la finance n’en veulent plus » - La relève et la peste](https://lareleveetlapeste.fr/les-paysans-vont-disparaitre-car-les-industriels-et-la-finance-nen-veulent-plus/)
   * [Impacts des produits phytopharmaceutiques sur la biodiversité et les services écosystémiques - INRAE](https://www.inrae.fr/actualites/impacts-produits-phytopharmaceutiques-biodiversite-services-ecosystemiques-resultats-lexpertise-scientifique-collective-inrae-ifremer)
   * [Le Collectif Nourrir publie son manifeste pour 1 million de paysans et paysannes d’ici 2050 -  Collectif Nourrir](https://collectifnourrir.fr/le-collectif-nourrir-publie-son-manifeste-pour-1-million-de-paysans-et-paysannes-dici-2050/)
   * [Livret sur la gestion quantitative de l’eau et agriculture - FNE Aura](https://www.fne-aura.org/uploads/2021/11/livretgestion_quantitative_agriculture_fneaura.pdf)
@@ -30,6 +31,7 @@ tags: [agriculture]
 
 ### Bio
 
+ * [L'agriculture biologique autorise-t-elle des pesticides ?](http://www.changeonsdagriculture.fr/l-agriculture-biologique-autorise-t-elle-des-pesticides-a203147862)
  * [Atelier paysan : « C’est en sortant de la bio qu’on pourra se débarrasser de l’agriculture industrielle » - Le comptoir](https://comptoir.org/2023/03/27/atelier-paysan-cest-en-sortant-de-la-bio-quon-pourra-se-debarrasser-de-lagriculture-industrielle/)
  * [En Andalousie, l’agriculture régénérative s’épanouit sur des sols asséchés - Reporterre](https://reporterre.net/En-Andalousie-l-agriculture-regenerative-s-epanouit-sur-des-sols-asseches)
  * [L’agriculture de conservation progresse en France, une autre voie pour l’avenir de nos cultures - France3](https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/la-roche-sur-yon/l-agriculture-de-conservation-progresse-en-france-une-autre-voie-pour-l-avenir-de-nos-cultures-2782358.html)

@@ -10,7 +10,7 @@ tags: [eau]
 
  * [Hydroélectricité, en revenir à la raison - FNE AURA](https://www.fne-aura.org/publications/region/hydroelectricite-en-revenir-a-la-raison/)
  * [La petite hydroélectricité, le grand leurre de la transition énergétique - FNE AURA](https://www.fne-aura.org/uploads/2021/04/plaidoyer-riviere-montagne.pdf)
- 
+
 ### Nucléaire
 
  * [Mediapart – Les centrales nucléaires sont très gourmandes en eau - Mediapart](https://www.mediapart.fr/journal/ecologie/030323/les-centrales-nucleaires-sont-tres-gourmandes-en-eau)
@@ -21,6 +21,13 @@ tags: [eau]
  * [« Les plus pessimistes étaient beaucoup trop optimistes » - Jean-Baptiste Fressoz](https://www.terrestres.org/2023/05/05/les-plus-pessimistes-etaient-beaucoup-trop-optimistes/)
  * [There will be no new nuclear power plants in the West](https://jeromeaparis.substack.com/p/there-will-be-no-new-nuclear-power?s=r)
 
+### Éolienne
+
+* [Biodiversité : on vous explique pourquoi les éoliennes sont accusées de tuer les chauve-souris - France3](https://france3-regions.francetvinfo.fr/centre-val-de-loire/cher/biodiversite-on-vous-explique-pourquoi-les-eoliennes-sont-accusees-de-tuer-les-chauve-souris-2863742.html)
+
+## Vidéos
+
+Néant
 
 ## Outils
 

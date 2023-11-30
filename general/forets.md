@@ -11,6 +11,9 @@ tags: [forêts]
 * ["Ghost forests" along U.S. coasts are a haunting indicator of climate change - CBS News](https://www.cbsnews.com/news/ghost-forests-chesapeake-bay-us-coasts-climate-change/?_hsmi=255502420)
 * [Ces champignons de forêt communiquent entre eux après la pluie - Gurumed](https://www.gurumed.org/2023/05/04/ces-champignons-de-fort-communiquent-entre-eux-aprs-la-pluie/)
 
+### Haies
+
+* [De l’importance des haies : une évaluation à l’échelle nationale - Vigie Nature](https://www.vigienature.fr/fr/actualites/importance-haies-evaluation-echelle-nationale-3794)
 
 ## Vidéos
 
