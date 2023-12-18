@@ -11,6 +11,12 @@ panel: true
     <title>{{ title or page.fileSlug }}</title>
     <meta name="generator" content="{{ eleventy.generator }}">
     <link rel="stylesheet" href="{{ setup.css.output }}">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="twitter:title" content="{{ title or page.fileSlug }}" />
+    <meta name="twitter:site" content="S’engager pour la nature" />
+    <meta name="twitter:creator" content="@bertrandkeller" />
+    <meta property="og:site_name" content="S’engager pour la nature" />
     <meta name="twitter:card" content="summary_large_image"/>
     <meta property="og:image" content="/assets/twittercard.png" />
     <meta property="twitter:image" content="/assets/twittercard.png"/>

@@ -25,6 +25,14 @@ tags: [eau]
 
 * [Biodiversité : on vous explique pourquoi les éoliennes sont accusées de tuer les chauve-souris - France3](https://france3-regions.francetvinfo.fr/centre-val-de-loire/cher/biodiversite-on-vous-explique-pourquoi-les-eoliennes-sont-accusees-de-tuer-les-chauve-souris-2863742.html)
 
+### Photovoltaïque
+
+* [Insectivorous bats alter their flight and feeding behaviour at ground-mounted solar farms - British Ecological Society](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.14555)
+
+###
+
+* [La méthanisation est-elle une chance ou un risque pour les agriculteurs ? - Ouest France](https://www.ouest-france.fr/economie/agriculture/enquete-la-methanisation-est-elle-une-chance-ou-un-risque-pour-les-agriculteurs-3f826132-89f9-11ee-a92a-0b4bc05f91ae)
+
 ## Vidéos
 
 Néant

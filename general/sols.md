@@ -9,6 +9,8 @@ tags: [sols]
  * [Dégradation des sols : le fléau grandit dans l’indifférence - Mr Mondialisation](https://mrmondialisation.org/degradation-des-sols-le-fleau-grandit-dans-lindifference/)
  * [L’artificialisation des sols, danger à plus d’un titre pour le climat - Libération](https://www.liberation.fr/environnement/lartificialisation-des-sols-une-balle-dans-le-pied-pour-le-climat-20230416_GSRH6I2DDVDYVA5D67GUZE7M2Y/?redirected=1)
  * [Soil organic carbon models need independent time-series validation for reliable prediction - Nature](https://www.nature.com/articles/s43247-023-00830-5)
+ * [C and N turnover of fermented residues from biogas plants in soil in the presence of three different earthworm species (Lumbricus terrestris, Aporrectodea longa, Aporrectodea caliginosa) - Science Direct](https://www.sciencedirect.com/science/article/abs/pii/S0038071708000059?via%3Dihub)
+ * [The impact of anaerobic digestate on soil life: A review - Science Direct](https://www.sciencedirect.com/science/article/pii/S0929139323002640?via%3Dihub#bb0410)
 
 
 ### Plantes

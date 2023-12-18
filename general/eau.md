@@ -1,7 +1,8 @@
 ---
 title: Eau
-tags: [eau]
+tags: [eau, rivières]
 ---
+
 
 
 ## Liens
@@ -12,6 +13,8 @@ tags: [eau]
  * [Dans quel ordre de priorité, par rapport aux autres droits de préemption, classer le « droit de préemption ressources en eau » ?](https://transitions.landot-avocats.net/2023/04/28/dans-quel-ordre-de-priorite-par-rapport-aux-autres-droits-de-preemption-classer-le-droit-de-preemption-ressources-en-eau/)
  * ["Honteux" : la nappe phréatique d’un village de l'Hérault vendue à un géant de l'eau en bouteille ? - TF1](https://www.tf1info.fr/environnement-ecologie/video-tf1-secheresse-polemique-dans-l-herault-honteux-la-nappe-phreatique-d-un-village-vendue-a-un-geant-de-l-eau-en-bouteille-2269874.html)
  * [Les définitions de l’eau et les différentes qualités d’eau. Ne plus se tromper d'eau -  Solution Bio](https://www.solutionsbio.ch/post/definition-eau-differentes-qualites-eau)
+ * [As Armenian Fish Farming Expands, a Pristine Aquifer Is Drying Up](https://e360.yale.edu/features/armenia-fish-farms-groundwater-agriculture)
+ * [Crise de l’eau : L’ONU fait boire la tasse à Paris -  Blast](https://www.blast-info.fr/articles/2023/crise-de-leau-lonu-fait-boire-la-tasse-a-paris-pXBMO2hITB6OEGlrJPqCwA)
 
 ### Plan eau & gouvernance
 
@@ -23,6 +26,7 @@ tags: [eau]
 
 ### Rivières & Bassins versant
 
+ * ["La Loire menacée de la source à l'estuaire" - La république du centre](https://www.larep.fr/orleans-45000/actualites/la-loire-menacee-de-la-source-a-l-estuaire-decouvrez-notre-dossier-special_14413119/)
  * [Livret général « rivières » et livrets des rivières de l'Ain - FNE AURA](https://www.fne-aura.org/publications/region/les-livrets-printemps-des-rivieres/)
  * [Etude Débits du Rhône : Mission 1 - Rapport complet](https://www.eaurmc.fr/jcms/pro_118249/fr/etude-debits-du-rhone-mission-1-rapport-complet)
  * [« L’eau qui atteint la mer est perdue » : les arguments des pro-bassines battus en brèche - Basta Mag](https://basta.media/L-eau-qui-atteint-la-mer-est-perdue-les-arguments-des-pro-bassines-battus-en-breche-pluies-secheresse-nappes-changement-climatique)
@@ -50,6 +54,7 @@ tags: [eau]
 
 ## Vidéos
 
+ * [La renaturation des cours d'eau : un atout pour la vie cachée de l'Yerres - Veille eau](https://veille-eau.com/videos/la-renaturation-des-cours-d-eau-un-atout-pour-la-vie-cachee-de-l-yerres)
  * [Restauration des cours d'eau : approches à large échelle - OFB/OiEau](https://www.youtube.com/watch?v=1qmzYT8yBi0)
  * [Carbone et Eau, ce couple à mettre en lumière - Laurent Denise](https://www.youtube.com/watch?v=G-2hVeUAOms)
  * [L'infiltration c'est la solution - Département de la Mayenne](https://www.youtube.com/watch?v=0IMbPBkoP_0)
@@ -57,10 +62,12 @@ tags: [eau]
  * [Préserver et partager l’eau - #ColloqueAdaptation](https://twitter.com/i/broadcasts/1RDGlagXEyqJL)
  * [EAU TV, des Elus et des Rivières](https://www.youtube.com/@EAU-TV/videos)
 
+
 ## Podcast
 
  * [Des zones humides à préserver et restaurer - France Culture](https://www.radiofrance.fr/franceculture/podcasts/le-reportage-de-la-redaction/des-zones-humides-a-preserver-et-restaurer-6311806)
  * [Comment nous avons brisé le cycle de l’eau - Le Tournant](https://open.spotify.com/episode/4nQurazZwKMjpMPonn8KfH?si=ph_Z2weIRqSVmVPj8TcAXA&nd=1)
+ * [](https://www.rcf.fr/ecologie-et-solidarite/mag-de-lenvironnement?episode=404889)
 
 ## Aller plus loin
 

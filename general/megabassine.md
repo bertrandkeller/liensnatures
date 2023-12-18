@@ -10,6 +10,7 @@ tags: [eau,politique]
 * [« Les mégabassines ne résoudront pas la crise de l’eau » - CNRS](https://lejournal.cnrs.fr/billets/les-megabassines-ne-resoudront-pas-la-crise-de-leau)
 * [Autour des mégabassines, deux visions s’affrontent sur le partage de l’eau - Le monde](https://www.lemonde.fr/planete/article/2023/03/25/autour-des-megabassines-deux-visions-s-affrontent-sur-le-partage-de-l-eau_6166910_3244.html)
 * [Rémy Pointereau : le sénateur bassine et l’associé pompe - Les jours](https://lesjours.fr/obsessions/eau-guerres/ep6-senateurs-remy-pointereau/)
+* [Bassines : une étude indépendante pointe le non-respect des engagements des agriculteurs - Ouest France](https://www.ouest-france.fr/environnement/eau/bassines-une-etude-independante-pointe-le-non-respect-des-engagements-des-agriculteurs-9a613420-9822-11ee-b5ab-4c9dbbc4ce19)
 
 ### Réservoirs
 
